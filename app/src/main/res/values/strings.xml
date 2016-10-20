@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zigbee测试（ADK）</string>
+
+    <string name="title_switch_status_on">打开</string>
+    <string name="title_switch_status_off">关闭</string>
+
+    <string name="title_close">关闭</string>
+
+    <string name="title_menu_setting">设置</string>
+    <string name="title_menu_find">查询设备</string>
+</resources>

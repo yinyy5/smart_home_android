@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/device_image"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/ic_default" />
+
+    <TableLayout
+        android:id="@+id/status_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/device_image"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/device_image"
+        android:gravity="center">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/channel_status_1"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/ic_off"
+                android:gravity="center"
+                android:text="1"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/channel_status_2"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/ic_off"
+                android:gravity="center"
+                android:text="2"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/channel_status_3"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/ic_off"
+                android:gravity="center"
+                android:text="3"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/channel_status_4"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/ic_off"
+                android:gravity="center"
+                android:text="4"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:textSize="10dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/channel_status_5"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/ic_off"
+                android:gravity="center"
+                android:text="5"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/channel_status_6"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/ic_off"
+                android:gravity="center"
+                android:text="6"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/channel_status_7"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/ic_off"
+                android:gravity="center"
+                android:text="7"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/channel_status_8"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/ic_off"
+                android:gravity="center"
+                android:text="8"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:textSize="10dp" />
+        </TableRow>
+    </TableLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/device_image"
+        android:layout_alignTop="@+id/device_image"
+        android:layout_toLeftOf="@+id/status_layout"
+        android:layout_toRightOf="@+id/device_image"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/device_nickname_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center_vertical"
+            android:text="用户给设备起的别名" />
+
+        <TextView
+            android:id="@+id/device_description_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="设备的描述信息" />
+    </LinearLayout>
+
+</RelativeLayout>

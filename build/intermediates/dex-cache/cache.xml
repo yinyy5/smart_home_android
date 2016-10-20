@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_63de762be71c9bb690f509f52960265e2ec6a43e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yinyy\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.0\8a23146e1a8c7cb4758e3d3f62449213f1e51f67\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_cbd8eb785c22a909e8d31cc093d923165542d9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_3008cf5481df2b1f260ac127f9a3bb8eac7f6a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a29246caaa2299bade460801b6c4b1998873c6c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f228b50e10886c2cc6f05f5f0dec59b86c757c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_ad547dba2f23e1331288b3c486f2adda4c2b2913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2db78c9ff571248bd6d337e0b00b1cf6f8823a9a">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1e329535c76c419702314b4daee36b2512ef3054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="14553c622a42019ee805e81e261ba48655fed35a">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ec74237f212f001fc0cb573aeec9863d092ee502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yinyy\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_315eb98c33af892193f33721e9721343967409ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_dbcbbf275a0480485360ba974f64c5019e2689f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Sources\AndroidStudio\ADKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e481c62fb7143976501760e03d3c278a24db016a\classes.dex" />
+    </item>
+
+</items>
